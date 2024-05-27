@@ -10,7 +10,7 @@
 
   <a href="https://facebook.com/s.mdaashir" target="_blank"><img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=Facebook&logoColor=1877F2" alt="Facebook"/></a>&nbsp;
   <a href="https://t.me/MohamedAashirS" target="_blank"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=2CA5E0" alt="Telegram"/></a>&nbsp;
-  <a href="https://aashir.kesug.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=microsoft-edge&logoColor=E37400" alt="Portfolio"/></a>
+  <a href="https://mdaashir.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=microsoft-edge&logoColor=E37400" alt="Portfolio"/></a>
 </div>
 
 <br>
