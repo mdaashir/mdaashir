@@ -9,8 +9,7 @@
   <a href="mailto:s.mohamedaashir@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email"/></a>&nbsp;
 
   <a href="https://facebook.com/s.mdaashir" target="_blank"><img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=Facebook&logoColor=1877F2" alt="Facebook"/></a>&nbsp;
-  <a href="https://t.me/MohamedAashirS" target="_blank"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=2CA5E0" alt="Telegram"/></a>&nbsp;
-  <a href="https://mdaashir.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=microsoft-edge&logoColor=E37400" alt="Portfolio"/></a>
+  <a href="https://t.me/MohamedAashirS" target="_blank"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=2CA5E0" alt="Telegram"/></a>
 </div>
 
 <br>
@@ -35,9 +34,6 @@ const Mohamed_Aashir_S = {
 
 <br>
 
-<!--
-<img align="right" alt="Mohamed Aashir S" src="https://github-readme-stats.vercel.app/api?username=mdaashir&show_icons=true&count_private=true&theme=midnight-purple&bg_color=151515&hide_rank=true&border_radius=20" />
--->
 <div align="center" >
   <img alt="Mohamed Aashir S" src="https://github-readme-stats.vercel.app/api?username=mdaashir&count_private=true&show_icons=true&theme=algolia&border_radius=20&rank_icon=github&include_all_commits=true" style="width: 50%;" />
   <img width="50" />
