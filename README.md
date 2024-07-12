@@ -35,9 +35,6 @@ const Mohamed_Aashir_S = {
 
 <br>
 
-
-<img align="right" alt="Mohamed Aashir S" src="https://github-readme-stats.vercel.app/api?username=mdaashir&show_icons=true&count_private=true&theme=midnight-purple&bg_color=151515&hide_rank=true&border_radius=20" />
-
 <div align="center" >
   <img alt="Mohamed Aashir S" src="https://github-readme-stats.vercel.app/api?username=mdaashir&count_private=true&show_icons=true&theme=algolia&border_radius=20&rank_icon=github&include_all_commits=true" style="width: 50%;" />
   <img width="50" />
